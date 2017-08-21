@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/meminfo.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-mdpi/meminfo.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-mdpi/button_bg.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-mdpi/button_bg.png"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">五子棋</string>
+    <string name="app_name_ic">智能五子棋</string>
+    <string name="Double_mode">双人模式</string>
+    <string name="Bluetooth_mode">蓝牙对战</string>
+    <string name="Re_play">重来</string>
+    <string name="Sound">音效</string>
+    <string name="Black_wins">黑棋胜</string>
+    <string name="White_wins">白棋胜</string>
+    <string name="Human_Battle">人机对战</string>
+    <string name="Retract">悔棋</string>
+    <string name="Human_wins">恭喜，你赢了！</string>
+    <string name="AI_wins">很遗憾，你输了！</string>
+    <string name="Connect_successfully">连接成功</string>
+    <string name="Connection_please_wait">连接中，请稍后。。。</string>
+    <string name="Create_Game">创建游戏</string>
+    <string name="Have_not_yet_joined_any_games">未加入任何游戏</string>
+    <string name="Join_Game">加入游戏</string>
+    <string name="No_can_be_matched_to_use_bluetooth">未搜索到可用的蓝牙设备</string>
+    <string name="The_other_side_pulled_out_of_the_game">对方退出了游戏</string>
+    <string name="Wait_for_other_players_to_join">等待其他玩家加入。。。</string>
+    <string name="no">否</string>
+    <string name="yes">是</string>
+    <string name="stop_search">停止搜索</string>
+    <string name="repeat_search">重新搜索</string>
+    <string name="quit_the_game">确定退出当前游戏吗？</string>
+    <string name="Bluetooth_has_been_closed">蓝牙被关闭，请退出后重新开始游戏</string>
+    <string name="Sina_MicroBlog">新浪微博： 夏叶枫灬</string>
+    <string name="about">关于</string>
+    <string name="developer">开发者： Maple</string>
+    <string name="version">版本号： 2.0</string>
+</resources>

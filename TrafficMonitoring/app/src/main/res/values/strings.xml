@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test Tools</string>
+    <string name="collecting_frequency">采集频率(s)</string>
+    <string name="str">从开始测试到现在《</string>
+    <string name="UseTotal">》总共使用流量:</string>
+    <string name="BackgroundOperation">"后台运行 "</string>
+    <string name="useTraffic">" 使用流量:"</string>
+    <string name="foreground">"前台运行 "</string>
+    <string name="timeless">无时间限制</string>
+    <string name="ApplicationName">应用名:</string>
+    <string name="packageName">包名:</string>
+    <string name="Version">版本:</string>
+    <string name="Start">开始</string>
+    <string name="Stop">停止</string>
+    <string name="testing">测试中,请保持本工具一直在运行状态!</string>
+    <string name="startTest">开始测试</string>
+    <string name="EndTest">测试结束!</string>
+    <string name="testTime">测试时长（H）</string>
+    <string name="Mark">测试前请充满电,并且重启手机,重启测试的应用</string>
+    <string name="SaveCsv">将数据录入CSV (存入手机根目录)</string>
+</resources>

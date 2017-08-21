@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable/seekbar_thumb.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable/custom_checkbox.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable/custom_checkbox.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable/float_button.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable/float_button.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable/settings_button.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable/settings_button.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable/custom_seekbar.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable/custom_seekbar.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable/test_button.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable/test_button.xml"
+    }
+]

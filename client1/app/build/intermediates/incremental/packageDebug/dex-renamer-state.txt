@@ -1,0 +1,7 @@
+#Mon Feb 20 11:46:39 HKT 2017
+base.0=/Users/liu/AndroidProjact/client1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7ac377d296f3f13f2296e2bcc78c5d8e3f84828
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/liu/AndroidProjact/client1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53f1586591a158231429f06d6d3dbae816bca1a7/classes.dex
+base.1=/Users/liu/AndroidProjact/client1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53f1586591a158231429f06d6d3dbae816bca1a7
+file.0=/Users/liu/AndroidProjact/client1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7ac377d296f3f13f2296e2bcc78c5d8e3f84828/classes.dex

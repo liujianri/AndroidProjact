@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_native_video_scroll_view.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_native_video_scroll_view.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/item_data.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/item_data.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_native_video_demo.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_native_video_demo.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_native_video_recycler_view.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_native_video_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_native_video_ad.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_native_video_ad.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_native_video_pre_movie.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_native_video_pre_movie.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_interstitial_ad.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_interstitial_ad.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_gdtnativead_demo.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_gdtnativead_demo.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/nativelistitem.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/nativelistitem.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/item_ad.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/item_ad.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_gdtnative_video_ad.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_gdtnative_video_ad.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/activity_banner.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/activity_banner.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/layout/listitem_nativevideo.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/layout/listitem_nativevideo.xml"
+    }
+]

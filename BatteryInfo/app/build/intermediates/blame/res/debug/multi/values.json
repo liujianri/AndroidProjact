@@ -1,0 +1,524 @@
+[
+    {
+        "outputFile": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 48,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 48,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 184,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 200,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 153,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 946,
+                        "endColumn": 165,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 121,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 129,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 86,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 90,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 61,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1714,
+                        "endColumn": 61,
+                        "endOffset": 1771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 65,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1333,
+                        "endColumn": 65,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 66,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1399,
+                        "endColumn": 66,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 64,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endColumn": 64,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 57,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1597,
+                        "endColumn": 57,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 65,
+                    "endOffset": 1081
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1531,
+                        "endColumn": 65,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1086,
+                    "endColumn": 58,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1655,
+                        "endColumn": 58,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 52,
+                    "endOffset": 1193
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 52,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1198,
+                    "endColumn": 50,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 50,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 46,
+                    "endOffset": 1291
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 46,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1296,
+                    "endColumn": 43,
+                    "endOffset": 1335
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 43,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1340,
+                    "endColumn": 43,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 43,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endColumn": 44,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 44,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1429,
+                    "endColumn": 44,
+                    "endOffset": 1469
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 44,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1474,
+                    "endColumn": 121,
+                    "endOffset": 1591
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1776,
+                        "endColumn": 129,
+                        "endOffset": 1901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1596,
+                    "endColumn": 44,
+                    "endOffset": 1636
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 44,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1641,
+                    "endColumn": 59,
+                    "endOffset": 1696
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 59,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1701,
+                    "endColumn": 59,
+                    "endOffset": 1756
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 59,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1761,
+                    "endColumn": 43,
+                    "endOffset": 1800
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 43,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1805,
+                    "endColumn": 49,
+                    "endOffset": 1850
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 49,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1855,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2141
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2146,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

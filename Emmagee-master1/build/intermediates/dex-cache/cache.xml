@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6ad68302978599f900a0b7ca7869f99ae5d91b7f">
+        <dex dex="/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ff8055e4ef1ba01c417796a86b4d1ae977543017/classes.dex" />
+    </item>
+
+</items>

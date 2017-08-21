@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Go Bang</string>
+    <string name="app_name_ic">Go Bang</string>
+    <string name="Double_mode">Double Battle</string>
+    <string name="Bluetooth_mode">Bluetooth Battle</string>
+    <string name="Sound">Sound</string>
+    <string name="Re_play">Re play</string>
+    <string name="White_wins">White wins</string>
+    <string name="Black_wins">Black wins</string>
+    <string name="Human_Battle">Man-machine mode</string>
+    <string name="Retract">Retract</string>
+    <string name="Human_wins">Congratulations, you win!</string>
+    <string name="AI_wins">Unfortunately,you lost</string>
+    <string name="Create_Game">Create Game</string>
+    <string name="Join_Game">Join Game</string>
+    <string name="quit_the_game">Are you sure you want to quit the game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Connection_please_wait">Connection, please wait...</string>
+    <string name="Connect_successfully">Connect successfully</string>
+    <string name="The_other_side_pulled_out_of_the_game">The other side pulled out of the game</string>
+    <string name="Have_not_yet_joined_any_games">Have not yet joined any games</string>
+    <string name="Wait_for_other_players_to_join">Wait for other players to join...</string>
+    <string name="stop_search">stop search</string>
+    <string name="repeat_search">repeat search</string>
+    <string name="No_can_be_matched_to_use_bluetooth">No can be matched to use bluetooth</string>
+    <string name="Bluetooth_has_been_closed">Bluetooth has been closed, please quit to re create the game.</string>
+    <string name="about">About</string>
+    <string name="version">Version: 2.0</string>
+    <string name="developer">Developer: Maple</string>
+    <string name="Sina_MicroBlog">Sina Micro blog: 夏叶枫灬</string>
+</resources>

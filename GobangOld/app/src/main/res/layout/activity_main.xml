@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbgg"
+    tools:context="com.maple.com.gobang.MainActivity">
+    <RelativeLayout
+        android:id="@+id/ad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true">
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="66dp"
+        android:id="@+id/textView" />
+
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Human_Battle"
+            android:textSize="25dp"
+            android:textColor="#99cc33"
+            android:textAllCaps="false"
+            android:id="@+id/btnHumanBattle"
+            android:background="@drawable/btn"
+            android:layout_gravity="center"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="#00000000"/>
+
+
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Double_mode"
+        android:textSize="25dp"
+        android:textColor="#99cc33"
+        android:textAllCaps="false"
+        android:id="@+id/btnDoubleMode"
+        android:background="@drawable/btn"
+        android:layout_gravity="center"
+         />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="#00000000"/>
+
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Bluetooth_mode"
+        android:id="@+id/btnBluetoothMode"
+        android:textSize="25dp"
+        android:textColor="#99cc33"
+        android:textAllCaps="false"
+        android:background="@drawable/btn"
+        android:layout_gravity="center"
+        />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="#00000000"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about"
+            android:id="@+id/btnAbout"
+            android:textAllCaps="false"
+            android:background="@drawable/btn"
+            android:textSize="25dp"
+            android:textColor="#99cc33"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/layout/navigation_bar.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/layout/navigation_bar.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/layout/floating.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/layout/floating.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/layout/mainpage.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/layout/mainpage.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/layout/mail_settings.xml",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/layout/mail_settings.xml"
+    }
+]

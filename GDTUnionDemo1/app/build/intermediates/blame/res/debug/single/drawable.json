@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo1/app/build/intermediates/res/merged/debug/drawable/background_button.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo1/app/src/main/res/drawable/background_button.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo1/app/build/intermediates/res/merged/debug/drawable/background_circle.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo1/app/src/main/res/drawable/background_circle.xml"
+    }
+]

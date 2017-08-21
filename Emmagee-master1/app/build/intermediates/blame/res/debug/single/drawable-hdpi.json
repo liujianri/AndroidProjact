@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/seekbar_thumb_pressed.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/checked_icon.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/checked_icon.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/bottom_bg.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/bottom_bg.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/unchecked_icon.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/unchecked_icon.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_test.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/btn_test.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_save.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/btn_save.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/actionbar_bg.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/actionbar_bg.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/goback.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/goback.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_back.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/meminfo.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/meminfo.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/right_arrow.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/button_bg.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/button_bg.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_test_press.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/btn_test_press.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/settings_pressed.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/settings_pressed.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/seekbar_thumb_normal.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/Emmagee-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/liu/AndroidProjact/Emmagee-master1/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

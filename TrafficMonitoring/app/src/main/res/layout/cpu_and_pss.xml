@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_purple"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/im"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/txAppName"
+        android:textSize="@dimen/text_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/im"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/txVersion"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/text_size"
+        android:layout_below="@+id/txPackageName"
+        android:layout_alignLeft="@+id/txPackageName"
+        android:layout_alignStart="@+id/txPackageName" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/txPackageName"
+        android:textSize="@dimen/text_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/txAppName"
+        android:layout_alignLeft="@+id/txAppName"
+        android:layout_alignStart="@+id/txAppName" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/startTest"
+        android:id="@+id/btnStartTest"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_test"
+        android:background="@drawable/test_button"/>
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout"
+        android:background="@color/white"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/linearLayout3"
+        android:layout_above="@+id/btnStartTest">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView8"
+            android:text="@string/Mark"
+            android:layout_marginTop="5dp"
+            android:textSize="@dimen/text_size"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/red"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:textSize="@dimen/text_size"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/red"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5"
+            android:text="Cpu占有率测试采集频率最好不要大于5S"
+            android:textSize="@dimen/text_size"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/red"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView6"
+            android:textSize="@dimen/text_size"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView7"
+            android:textSize="@dimen/text_size"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/red"
+            android:text="Cpu占有率测试采集频率越小越精确"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txVersion"
+        android:id="@+id/linearLayout2"
+        android:layout_marginTop="5dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:padding="@dimen/layout_vertical_margin_small" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/collecting_frequency"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="right" >
+
+                <TextView
+                    android:id="@+id/CpuTime"
+                    android:layout_width="50sp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical|right"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size" >
+                </TextView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <SeekBar
+            android:id="@+id/CpuTimeline"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:max="59"
+            android:maxHeight="4.0dip"
+            android:minHeight="4.0dip"
+            android:paddingBottom="@dimen/layout_vertical_margin_small"
+            android:paddingLeft="16.0dip"
+            android:paddingRight="16.0dip"
+            android:background="@color/white"
+            android:progressDrawable="@drawable/custom_seekbar"
+            android:thumb="@drawable/seekbar_thumb" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/line_height"
+            android:background="@color/light_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:padding="@dimen/layout_vertical_margin_small">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/testTime"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="right" >
+
+                <TextView
+                    android:id="@+id/CpuTestTime"
+                    android:layout_width="70sp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical|right"
+                    android:textColor="@color/black"
+                    >
+                </TextView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <SeekBar
+            android:id="@+id/CpuTestTimeline"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:max="24"
+            android:maxHeight="4.0dip"
+            android:minHeight="4.0dip"
+            android:paddingBottom="@dimen/layout_vertical_margin_small"
+            android:paddingLeft="16.0dip"
+            android:paddingRight="16.0dip"
+            android:progressDrawable="@drawable/custom_seekbar"
+            android:thumb="@drawable/seekbar_thumb"
+            android:background="@color/white"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/line_height"
+            android:background="@color/light_gray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="@dimen/layout_vertical_margin_small"
+        android:id="@+id/linearLayout3"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SaveCsv"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size"
+            android:layout_gravity="center"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:gravity="right" >
+
+            <CheckBox
+                android:id="@+id/CpuSaveCSV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:background="@drawable/custom_checkbox"
+                android:button="@null"
+                android:checked="false"
+                android:gravity="right"
+                android:paddingLeft="@dimen/image_padding"
+                android:paddingRight="@dimen/image_padding"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

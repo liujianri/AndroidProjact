@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Download Music</string>
+    <string name="tv">进入QQ音乐或者酷狗音乐后台播放你想下载的歌曲，当歌曲将要播放完时点击下列的按钮即可将刚刚播放的歌曲下载，下载完成后如果发现歌曲的名字没有改变请手动重命名即可。下载的音乐文件可能有几个，需要每个都尝试播放一下就知道那个是你想要的了！</string>
+</resources>

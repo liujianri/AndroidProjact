@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/tpl_list_blogs.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/tpl_list_blogs.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_login.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_login.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_blogs.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_blogs.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/tpl_list_config.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/tpl_list_config.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/tpl_list_info.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/tpl_list_info.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/tpl_list_comment.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/tpl_list_comment.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/tpl_list_blog.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/tpl_list_blog.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_edit.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_edit.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_config.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_config.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_test.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_test.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_blog.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_blog.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/main_top.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/main_top.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/demo_web.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/demo_web.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/main_dialog.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/main_dialog.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_index.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_index.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/main_tab.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/main_tab.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/test_frame.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/test_frame.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/test_table.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/test_table.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/demo_map.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/demo_map.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_face.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_face.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/tpl_list_menu.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/tpl_list_menu.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/main_load.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/main_load.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/test_merge.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/test_merge.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/main_layout.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/main_layout.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_write.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_write.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/client1/app/build/intermediates/res/merged/debug/layout/ui_mytip.xml",
+        "source": "/Users/liu/AndroidProjact/client1/app/src/main/res/layout/ui_mytip.xml"
+    }
+]

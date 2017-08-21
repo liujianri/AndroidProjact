@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_seekbar_progress.9.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_seekbar_progress.9.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_volume_on.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_volume_on.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_progress_thumb_normal.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_progress_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_seekbar_background.9.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_seekbar_background.9.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_play.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_play.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_union.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_union.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_enter_fullscreen.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_enter_fullscreen.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_volume_off.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_volume_off.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_back.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_back.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_replay.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_replay.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_browse.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_browse.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_pause.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_pause.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_download.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_download.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/gdt_ic_exit_fullscreen.png",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/drawable-xxhdpi/gdt_ic_exit_fullscreen.png"
+    }
+]

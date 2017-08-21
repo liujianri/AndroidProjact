@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_settings_bluetooth.png",
+        "source": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/drawable-hdpi/ic_settings_bluetooth.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_settings_phone_idle.png",
+        "source": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/drawable-hdpi/ic_settings_phone_idle.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_settings_voice_calls.png",
+        "source": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/drawable-hdpi/ic_settings_voice_calls.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_settings_display.png",
+        "source": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/drawable-hdpi/ic_settings_display.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_settings_cell_standby.png",
+        "source": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/drawable-hdpi/ic_settings_cell_standby.png"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/BatteryInfo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_settings_wifi.png",
+        "source": "/Users/liu/AndroidProjact/BatteryInfo/app/src/main/res/drawable-hdpi/ic_settings_wifi.png"
+    }
+]

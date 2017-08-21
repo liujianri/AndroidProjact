@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/menu/banner.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/menu/banner.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/menu/splash.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/menu/splash.xml"
+    },
+    {
+        "merged": "/Users/liu/AndroidProjact/GDTUnionDemo/app/build/intermediates/res/merged/debug/menu/interstitial_ad.xml",
+        "source": "/Users/liu/AndroidProjact/GDTUnionDemo/app/src/main/res/menu/interstitial_ad.xml"
+    }
+]
